@@ -28,6 +28,12 @@ body {
             body .container .content .col .card .card-body .card-title h2 {
               font-size: 24px;
               font-weight: bold; }
+              body .container .content .col .card .card-body .card-title h2 a {
+                color: #284ef7;
+                text-decoration: none; }
+                body .container .content .col .card .card-body .card-title h2 a:hover {
+                  color: #2814f7;
+                  text-decoration: underline; }
             body .container .content .col .card .card-body .card-content {
               padding: 0 24px; }
               body .container .content .col .card .card-body .card-content p {

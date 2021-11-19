@@ -31,6 +31,14 @@ body {
               h2 {
                 font-size: 24px;
                 font-weight: bold;
+                a {
+                  color: rgb(40, 78, 247);
+                  text-decoration: none;
+                  &:hover {
+                    color: rgb(40, 20, 247);
+                    text-decoration: underline;
+                  }
+                }
               }
             }
             .card-content {
